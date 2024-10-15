@@ -1,4 +1,4 @@
-# Koma CryptoCurrency
+# Koma CryptoCurrency (Hello Dawn)
 ## Made with Firebase-Firestore and MUI
 
 ### Demo - https://koma-crypto.netlify.app/
